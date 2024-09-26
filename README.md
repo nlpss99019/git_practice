@@ -1,4 +1,4 @@
-# git_practice
+.# git_practice
 本專案是用於 Git 和 GitHub 的自我練習，適合剛開始學習版本控制的學生和開發者。透過本專案，你將熟悉如何操作 Git 的基本命令，並學習如何使用 GitHub 進行協作式開發。
 
 ## 目的
@@ -17,8 +17,37 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1
+## H2標題
+### H3標題
+#### H4標題
 
+**粗體**
+*斜體*
 
+-第一項
+-第二項
+  -子項
+  -子項
 
+1.第一項
+2.第二項
+  1.子項
+  2.子項
+  
+```python
+print("Hello,world!")
+```
+[我的github](https://github.com/)
+![替代文字](https://cdn.iconscout.com/icon/premium/png-256-thumb/flutter-2752187-2285004.png))
 
+> 這是一個引用
 
+---
+
+區隔過後
+
+| 表頭1 | 表頭2 |
+| ----- | ----- |
+| 單元格1 | 單元格2 |
+| 單元格3 | 單元格4 |
